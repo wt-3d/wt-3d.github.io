@@ -13,8 +13,8 @@ For version 2.5 you will need to remove the ESP from the board. It should be rem
 ## Still Need help? Have more questions?
 Feel free to reach out to us via [Etsy](https://watchtower3d.etsy.com) anytime!
 
+![Customer Image](images/rat_enc_cus.png)
+
 ![mount using preexisting punched/slotted angle](images/rat_enc_back_strap.png)
 
 ![magnetically](images/rat_enc_magnetically.png)
-
-![Customer Image](images/rat_enc_cus.png)
