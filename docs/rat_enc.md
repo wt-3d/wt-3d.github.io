@@ -9,7 +9,7 @@ All versions of the enclosures are designed to be able to secure the PCB with th
 * Zip tie using the ears on the side.
 
 ## Still Need help? Have more questions?
-Feel free to reach out to us via Etsy anytime!
+Feel free to reach out to us via [Etsy](https://watchtower3d.etsy.com) anytime!
 
 ![mount using preexisting punched/slotted angle](images/rat_enc_back_strap.png)
 
