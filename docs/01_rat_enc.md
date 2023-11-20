@@ -1,4 +1,4 @@
-# Installation for ratgdo v2.x Enclosure
+# Installation for ratgdo v2.x Case
 
 ## Install Instructions
 All versions of the enclosures are designed to be able to secure the PCB with the screws provided. For version 2.5 you will need to remove the ESP from the board. It should be removed vertically.
