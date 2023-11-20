@@ -1,5 +1,7 @@
 # Installation for ratgdo v2.x Case
-All versions of the enclosures are designed to be able to secure the PCB with the screws provided. For version 2.5 you will need to remove the ESP from the board. It should be removed vertically.
+All versions of the enclosures are designed to be able to secure the PCB with the screws provided. The PCB is to be placed in first then the washer/spacer.
+
+For version 2.5 you will need to remove the ESP from the board. It should be removed vertically.
 
 ## Installation Options
 * Install Magnetically. 
