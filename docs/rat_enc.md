@@ -12,5 +12,3 @@ Feel free to reach out to us via Etsy anytime!
 ![mount using preexisting punched/slotted angle](images/rat_enc_back_strap.png)
 
 ![magnetically](images/rat_enc_magnetically.png)
-
-![magnetically](images/rat_enc_vertical.png)
