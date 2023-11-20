@@ -8,7 +8,7 @@ All versions of the enclosures are designed to be able to secure the PCB with th
     * This is to be able to mount using preexisting punched/slotted angle on the opener itself or vertical supports. Example Below.
 * Zip tie using the ears on the side.
 
-## Need help? Have questions?
+## Still Need help? Have more questions?
 Feel free to reach out to us via Etsy anytime!
 
 ![mount using preexisting punched/slotted angle](images/rat_enc_back_strap.png)
