@@ -3,7 +3,8 @@ All versions of the enclosures are designed to be able to secure the PCB with th
 
 ## Installation Options
 * Install Magnetically. Useful when attaching to the body of the opener or to the top metal plate. 
-* Screw mount with back strap to be able to mount using preexisting punched/slotted angle on the opener itself or vertical supports. Example Below.
+* Screw mounted using the back strap provided. 
+    * This is to be able to mount using preexisting punched/slotted angle on the opener itself or vertical supports. Example Below.
 * Zip tie using the ears on the side.
 
 ## Need help? Have questions?
