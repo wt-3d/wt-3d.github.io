@@ -6,6 +6,9 @@ All versions of the enclosures are designed to be able to secure the PCB with th
 * Screw mount with back strap to be able to mount using preexisting punched/slotted angle on the opener itself or vertical supports. Example Below.
 * Zip tie using the ears on the side.
 
+## Need help? Have questions?
+Feel free to reach out to us via Etsy anytime!
+
 ![mount using preexisting punched/slotted angle](images/rat_enc_back_strap.png)
 
 ![magnetically](images/rat_enc_magnetically.png)
