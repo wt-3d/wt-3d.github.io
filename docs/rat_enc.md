@@ -1,7 +1,7 @@
-# Installation for ratgdo v2.x Encosure
+# Installation for ratgdo v2.x Enclosure
 
 ## Install Instructions
-All versions of the encosures are designed to be able to secure the PCB with the screws provided. For version 2.5 you will need to remove the ESP from the board. It should be removed vertically.
+All versions of the enclosures are designed to be able to secure the PCB with the screws provided. For version 2.5 you will need to remove the ESP from the board. It should be removed vertically.
 
 ## Installation Options
 * Install Magnetically. Useful when attaching to the body of the opener or to the top metal plate. 
