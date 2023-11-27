@@ -6,7 +6,7 @@ Three sets of sensing screws are included in your purchase. The screws that cont
 If you would like to adjust how much water is left in the bowl before the sensor triggers then you can change the screws. The screw lengths differ by 5mm increments. 
 
 ## Installation
-### **1. Place the sensor in the plastic clip. Ensure the sensor screws are aligned with the holes**
+### **1. Place the sensor in the plastic clip. Ensure the sensor screws are aligned with the holes.**
 ![Align 1](images/pet_wat_sen_install_align_1.png)
 ![Align 2](images/pet_wat_sen_install_align_2.png)
 ### **2. Screw in the sensing screws until they are finger tight and aligned with the sensor.**
