@@ -3,6 +3,8 @@ Thank you for your purchase of the ratgdo 2.x case/enclosure!
 
 All versions of the enclosures are designed to be able to secure the PCB with the screws provided. The PCB is to be placed in first, then the washer/spacer. 
 
+![Assembly](images/assembly_web.png)
+
 For version 2.0, install with the ESP attached to the board.
 
 For version 2.5 (Non integrated ESP) you will need to remove the ESP from the board. It should be removed vertically.
