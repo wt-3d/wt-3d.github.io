@@ -1,4 +1,4 @@
-# Installation for ratgdo v2.x Case
+# Installation for ratgdo v2.0, v2.5, v2.5i, & 2.52i PCB Case
 Thank you for your purchase of the ratgdo 2.x case/enclosure!
 
 All versions of the enclosures are designed to be able to secure the PCB with the screws provided. The PCB is to be placed in first, then the washer/spacer. 
