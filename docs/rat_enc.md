@@ -15,11 +15,9 @@ For version 2.5 (Non integrated ESP) you will need to remove the ESP from the bo
 * Zip tie using the ears on the side.
 
 ## Strain Relief for v2.52i
-The strain relief for 2.52i is optional but recommended as the connectors are fragile. 
+The strain relief for 2.52i is optional but recommended, as the connectors are fragile. 
 
-There are recesses built into the lid in the event that the zip tie head sits proud of the case top. Flush cutting the zip tie tail is recomended. 
-
-Included in your kit is additional zip ties to be used for the strain relief.
+There are recesses built into the lid in the event that the zip tie head sits proud of the case top. Flush cutting the zip tie tail is recomended. Additional zip ties are included in your kit for the strain relief.
 
 ![2.25i Strain Relief](images/v2.52i_strain_1.png)
 
