@@ -1,13 +1,17 @@
-# Installation for ratgdo v2.0, v2.5, v2.5i, v2.52i, v2.53i PCB Case
-Thank you for your purchase of the ratgdo 2.x case/enclosure!
+# Installation for ratgdo32 & v2.x PCB Case
+Thank you for your purchase of the ratgdo32 or v2.x case/enclosure!
 
 All versions of the enclosures are designed to be able to secure the PCB with the screws provided. The PCB is to be placed in first, then the washer/spacer. 
 
 ![Assembly](images/assembly_web.png)
 
-For version 2.5 (Non integrated ESP) you will need to remove the ESP from the board. It should be removed vertically.
+To securely mount the **ratgdo32** PCB into the case, align the USB-C port with the center of the opening. Once aligned, use the provided screw and washer to fasten the PCB in place by securing it at the corner, as illustrated below. 
 
-For version 2.0, install with the ESP attached to the board.
+![Ratgdo32](images/ratgdo32_hole_s.png)
+
+For **v2.5 (Non integrated ESP)** you will need to remove the ESP from the board. It should be removed vertically.
+
+For **v2.0 (Non integrated ESP)**, install with the ESP attached to the board.
 
 ## Installation Options
 * Install Magnetically. 
