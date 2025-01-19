@@ -8,6 +8,7 @@ All versions of the enclosures are designed to be able to secure the PCB with th
 To securely mount the **ratgdo32** PCB into the case, align the USB-C port with the center of the opening. Once aligned, use the provided screw and washer to fasten the PCB in place by securing it at the corner, as illustrated below. 
 
 ![Ratgdo32](images/ratgdo32_hole_s.png)
+![Ratgdo32](images/ratgdo32_screw.png)
 
 For **v2.5 (Non integrated ESP)** you will need to remove the ESP from the board. It should be removed vertically.
 
